@@ -20,7 +20,7 @@ Built an interactive retail sales analytics dashboard using Excel, Pivot Tables,
 - GitHub
 
 ## Dashboard Preview
-(Add your screenshot here)
+Screenshot%202026-05-10%20034858.png
 
 ## Author
 Mohamed Ameen
